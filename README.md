@@ -1,2 +1,2 @@
-# armchairs
-scripted armchairs for Overte virtual worlds.
+# Armchairs
+Acripted armchairs for Overte virtual worlds.
