@@ -4,7 +4,7 @@
     {
         "type": "Box",
         "visible": false,
-        "name": "Seat - Club Arm Chair",
+        "name": "Seat - univestool_club_navy",
         "userData": "{\n    \"name\": \"univestool_club_navy\",\n    \"fst\": \"univestool_club_navy.fst\",\n    \"dimensions\": {\n        \"x\": 0.5059115886688232,\n        \"y\": 1.0777661800384521,\n        \"z\": 0.60999995470047\n    },\n    \"canClickOnModelToSit\": false\n}",
         "dimensions": {
             "x": 0.3499999940395355,
