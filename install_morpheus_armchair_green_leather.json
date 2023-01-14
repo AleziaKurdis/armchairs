@@ -5,7 +5,7 @@
         "type": "Box",
         "visible": false,
         "name": "Seat - morpheus_armchair_green_leather",
-        "userData": "{\n    \"name\": \"morpheus_armchair_green_leather\",\n    \"fst\": \"morpheus_armchair_green_leather.fst\",\n    \"dimensions\": {\n        \"x\": 0.5059115886688232,\n        \"y\": 1.0777661800384521,\n        \"z\": 0.60999995470047\n    },\n    \"canClickOnModelToSit\": false\n}",
+        "userData": "{\n    \"name\": \"morpheus_armchair_green_leather\",\n    \"fst\": \"morpheus_armchair_green_leather.fst\",\n    \"dimensions\": {\n        \"x\": 0.6542,\n        \"y\": 1.1381,\n        \"z\": 0.7324\n    },\n    \"canClickOnModelToSit\": false\n}",
         "dimensions": {
             "x": 0.3499999940395355,
             "y": 0.004999999888241291,
