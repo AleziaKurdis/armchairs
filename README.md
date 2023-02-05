@@ -13,5 +13,5 @@ https://aleziakurdis.github.io/armchairs/install_universtool_club_navy.json
   
 To Install:  
 Edit > Import Entities (.json) From a URL  
-https://aleziakurdis.github.io/armchairs/install_universtool_club_navy.json  
+https://aleziakurdis.github.io/armchairs/install_morpheus_armchair_green_leather.json
   
